@@ -1,0 +1,12 @@
+Hubadata Website
+-------------------
+
+1. Redirect to Pentramid App
+2. Explain 3 Pentramid functions at a high level (flyer posting, ordering, queue system)
+	- emphasis on simplicity of use
+	- emphasis on 
+3. Business Partnership & Investor Relations page
+4. About Us / Core Values page
+
+>>>IDEA<<<
+Location based customer tracking! Customers who pass by the business often will have their location known and businesses can better tailor their deals.

@@ -1,0 +1,14 @@
+body {
+	background-image: url('/img/triangles.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+#contactinfo {
+	border-radius: 5px;
+	background-color: rgba(256,256,256,0.3);
+	width: 350px;
+	font-size:16px;
+	font-weight:bold;
+	padding:6px;
+}
